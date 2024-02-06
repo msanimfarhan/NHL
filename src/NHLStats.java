@@ -24,7 +24,7 @@ public class NHLStats {
 
                     maxPlayers.add(players.getAt(i));
 
-                }else{
+                }else{ /* Hello */
                     maxPlayers.clear();
                     highest = x;
                     maxPlayers.add(players.getAt(i));
