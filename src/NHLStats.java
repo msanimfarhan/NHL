@@ -33,7 +33,7 @@ public class NHLStats {
 
             }
         }
-
+        // Commenting Out
         for(int i=0; i<maxPlayers.size();i++){
             System.out.println(maxPlayers.getAt(i).getName()+" "+ maxPlayers.getAt(i).getTeamName());
         }
